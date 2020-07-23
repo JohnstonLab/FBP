@@ -15,6 +15,8 @@ Also see http://onlinelibrary.wiley.com/doi/10.1113/JP272384/full for a good exa
 
 Notes on generating an appropriate stimulus:
 
+Visual stimuli can be generated with [shapeshifter](https://github.com/JohnstonLab/Shapeshifter) a GUI driven matlab package for designing visual experiments. See the heading FBP in the Mapping receptive fields section of the manual.
+
 The width of the stimulus bar should be determined for each experimental setup, the bar should be less than half the width of the receptive field being measured. Thinner bars will give higher spatial resolution at the expense of increased stimulation time. 
 
 A minimum of 5 angles should be used, this is sufficient to recover the receptive field centre. Using more angles it may be possible to reveal weak receptive field surrounds.
