@@ -1,10 +1,14 @@
 # FBP
 Reconstruction of the spatio-temporal receptive fields of visual neurons with Filtered Back Projection
 
+This project provides [Igor Pro](https://www.wavemetrics.com/products/igorpro) procedures to reconstruct both the spatio and temporal receptive fields of visual neurons that have been stimulated with a series of flashed bars. 
 
-Full details of how to map the spatio-temporal receptive field of visual neurons using these procedures can be found in the accompanying methods paper published in the Journal of Physiology 2014.
+A complete description of this method along with examples of its implementation has been published in a scientific paper in J Physiol (2014) [Rapid mapping of visual receptive fields by filtered back‐projection: application to multi‐neuronal electrophysiology and imaging](https://physoc.onlinelibrary.wiley.com/doi/full/10.1113/jphysiol.2014.276642) (DOI: 10.1113/jphysiol.2014.276642) 
+Please cite this paper when publishing data using this method.
 
-[Rapid mapping of visual receptive fields by filtered back‐projection: application to multi‐neuronal electrophysiology and imaging](https://physoc.onlinelibrary.wiley.com/doi/full/10.1113/jphysiol.2014.276642) (DOI: 10.1113/jphysiol.2014.276642) 
+Also see http://onlinelibrary.wiley.com/doi/10.1113/JP272384/full for a good example of how this method can also reveal the time course of synaptic inputs across different regions of an amacrine cell's receptive field
+
+
 
 
 Notes on generating an appropriate stimulus:
