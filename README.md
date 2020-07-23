@@ -3,7 +3,7 @@ Reconstruction of the spatio-temporal receptive fields of visual neurons with Fi
 
 ![Reconstrcuted receptive field of a retinal ganglion cell](https://github.com/JohnstonLab/FBP/blob/master/RF.png)
 
-This project provides [Igor Pro](https://www.wavemetrics.com/products/igorpro) procedures to reconstruct both the spatio and temporal receptive fields of visual neurons that have been stimulated with a series of flashed bars. 
+This project provides [Igor Pro](https://www.wavemetrics.com/products/igorpro) procedures to reconstruct both the spatial and temporal receptive fields of visual neurons that have been stimulated with a series of flashed bars. 
 
 A complete description of this method along with examples of its implementation has been published in a scientific paper in J Physiol (2014) [Rapid mapping of visual receptive fields by filtered back‐projection: application to multi‐neuronal electrophysiology and imaging](https://physoc.onlinelibrary.wiley.com/doi/full/10.1113/jphysiol.2014.276642) (DOI: 10.1113/jphysiol.2014.276642) 
 Please cite this paper when publishing data using this method.
